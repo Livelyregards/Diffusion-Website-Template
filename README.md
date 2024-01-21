@@ -63,3 +63,4 @@
   ## Additional Resources
 - [Three.js Documentation](https://threejs.org/docs/)
 - [WebGL Fundamentals](https://webglfundamentals.org/)
+- [Original Project Inspiration without any 3D effects, special thanks to Rich Zhang](https://https://github.com/richzhang/webpage-template)
