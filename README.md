@@ -17,13 +17,23 @@
      npm install
      ```
      
+### Installing Vite
+- This project uses Vite for building and serving the application. If you do not have Vite installed, install it globally via npm:
+  ```
+  npm install vite
+  ```
+### Installing Three.js
+- This project uses Three.js for handling 3D rendering. If you do not have it installed, you can do so via npm aswell:
+   ```
+   npm install three
+   ```
 
 3. **Development Server**
-   - To run a development server:
+   - To run a local development server:
      ```
      npm run dev
      ```
-   - This will typically start a local server, often on `http://localhost:3000`, where you can view and interact with the project.
+   - This will start a local server, often on `http://localhost:3000`, where you can view and interact with the project.
 
 4. **Building the Project**
    - For production build:
