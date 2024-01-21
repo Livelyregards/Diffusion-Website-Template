@@ -28,14 +28,14 @@
    npm install three
    ```
 
-3. **Development Server**
+### Development Server
    - To run a local development server:
      ```
      npm run dev
      ```
    - This will start a local server, often on `http://localhost:3000`, where you can view and interact with the project.
 
-4. **Building the Project**
+### Building the Project
    - For production build:
      ```
      npm run build
