@@ -8,7 +8,7 @@
 1. **Clone the Repository**
    - Clone the project repository to your local machine using Git:
      ```
-     git clone <repository-url> && cd Diffusion-Website-Template
+     git clone https://github.com/Livelyregards/Diffusion-Website-Template.git && cd Diffusion-Website-Template
      ```
 
 2. **Install Dependencies**
